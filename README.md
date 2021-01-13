@@ -1,6 +1,6 @@
-# PwaLores
+# PWA LORES
 
-This project was generated with version 11.0.5.
+This project was generated with version 11.0.5 of angular.
 
 Frameworks used are:
 -Boostrap 5
