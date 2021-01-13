@@ -6,5 +6,5 @@ Frameworks used are:
 -Boostrap 5
 -Font Awesome
 
-## --
+## SUMMARY
 Project made  by 4 Friends
